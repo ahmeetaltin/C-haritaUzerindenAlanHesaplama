@@ -1,0 +1,1 @@
+Form üzerinde kuşbakışı bir harita vardır ve tıkladığınız her noktayı kaydeder. Tıklanan bir önceki nokta ile tıklanan şuan ki nokta arasında çizgi çizer. Son olarak ilk tıklanan noktanın üstüne tekrar tıkladığınız taktirde oluşan alanın hesaplamasını yapar.
